@@ -1,0 +1,2 @@
+Git : It is Version Control System
+Github : GitHub is a cloud-based platform used to store,manage,and collaborate on Git repositories and code.
